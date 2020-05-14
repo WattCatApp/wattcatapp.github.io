@@ -16,4 +16,4 @@ It's significantly faster than the official InControl remote app and offers nume
 
 ## Privacy
 
-[Privacy Policy](PRIVACY.md)
+[Privacy Policy](privacy.md)
