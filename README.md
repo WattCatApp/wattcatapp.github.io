@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## WattCat
 
-You can use the [editor on GitHub](https://github.com/WattCatApp/wattcatapp.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+InControl app (I-Pace only) for Android
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is it
 
-### Markdown
+WattCat is an Android app that uses the InControl API to present vehicle information and enable the user to interact with the vehicle. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Why use it
 
-```markdown
-Syntax highlighted code block
+It's significantly faster than the official InControl remote app and offers numerous functional advantages.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WattCatApp/wattcatapp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- A more sensible, responsive and consistent UI. By making the most critical information and commands available immediately when the user opens up the app, you don't have to swipe and tap to get the information you need. A more Material Design compliant responsive UI provides a visually pleasing user experience.
+- Exclusive features
+- Privacy oriented and secure: No user tracking, analytics, crashlytics or ads of any kind. All data stored at rest is encrypted using the Android keystore with AES 256 bit.
